@@ -1,0 +1,14 @@
+streamlit
+PyPDF2
+pandas
+langchain>=0.1.0 
+langchain-community>=0.0.10
+langchain_google_genai
+langchain_google_vertexai
+faiss-cpu
+Pillow
+python-dotenv
+requests
+torch
+transformers
+sentence-transformers
